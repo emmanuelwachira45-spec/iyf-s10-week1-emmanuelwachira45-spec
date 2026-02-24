@@ -212,7 +212,7 @@ day3-contact-section
             </address>
             
             <!-- Email link using mailto -->
-            <p><strong>Email:</strong> <a href="mailto:emmanuel.wachira@example.com">emmanuel.wachira@example.com</a></p>
+            <p><strong>Email:</strong> <emmanuelwachira45@gmail.com</a></p>
             
             <!-- Phone link using tel -->
             <p><strong>Phone:</strong> <a href="tel:+254700000000">+254 700 000 000</a></p>
