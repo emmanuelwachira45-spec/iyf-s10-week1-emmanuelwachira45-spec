@@ -27,7 +27,7 @@ week one portfolio for IYF season10
 
 | Day | Challenge | File | Status |
 |-----|-----------|------|--------|
-| Day 1 | Five Tags Challenge | daily-challenges/day1-five-tags.html | ✅ Complete |
+| Day 1 | Five Tags Challenge | daily-challenges/day1-five-tags.html | ✅ complete |
 | Day 2 | Navigation Menu | daily-challenges/day2-navigation.html | ✅ Complete |
 | Day 3 | Contact Section | daily-challenges/day3-contact-section.html | ✅ Complete |
 | Day 4 | Photo Gallery | daily-challenges/day4-photo-gallery.html | ✅ Complete |
