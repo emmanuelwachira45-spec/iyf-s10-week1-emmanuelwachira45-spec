@@ -60,7 +60,7 @@ week one portfolio for IYF season1
 
     <main>
         <section class="hero">
-            <h1>Emmanuel Wachira</h1>
+            <h1>Emmanuel wachira</h1>
             <p>Aspiring Web Developer | IYF Season 10 Participant</p>
         </section>
 
